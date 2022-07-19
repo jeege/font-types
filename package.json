@@ -1,8 +1,12 @@
 {
   "name": "font-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "web font",
   "main": "lib/leadgoal.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeege/font-types.git"
+  },
   "author": "jeege",
   "license": "ISC"
 }
