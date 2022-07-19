@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "D-DIN";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("./fonts/D-DIN.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "D-DIN";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("./fonts/D-DIN-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "D-DINExp";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("./fonts/D-DINExp.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "D-DINExp";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("./fonts/D-DINExp-Bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "Geneva";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("./fonts/Geneva.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "IBMPlexSansCondensed";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src: url("./fonts/IBMPlexSansCondensed-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "IBMPlexSansCondensed";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src: url("./fonts/IBMPlexSansCondensed-Medium.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "IBMPlexSansCondensed";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src: url("./fonts/IBMPlexSansCondensed-Bold.ttf") format('truetype');
+}
